@@ -9,6 +9,7 @@
   "author": "rosy",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "compass": "^0.1.1",
     "express": "^4.18.2",
     "mongoose": "^7.4.2"
